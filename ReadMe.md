@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on portfolio projects<br>I'm looking for backend Internships<br>I'm currently learning Node.js & React<br>
 
-![My GIF](https://github.com/leclipse/leclipse/blob/main/gifs-on-cli.gif)
+![My GIF](https://github.com/leclipse/leclipse/blob/main/gifs-on-cli.gif](https://github.com/leclipse/leclipse/blob/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subarna Devkota) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCcB2uEeIP6daE7qtPqJCnqw) 
