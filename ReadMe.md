@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on portfolio projects<br>I'm looking for backend Internships<br>I'm currently learning Node.js & React<br>
+🖊️I'm currently working on portfolio projects<br>I'm looking for backend Internships<br>I'm currently learning Node.js & React<br>
 
 ![My GIF](https://github.com/leclipse/leclipse/blob/main/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
